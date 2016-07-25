@@ -12,3 +12,5 @@
 6、swift网站:http://letsswift.com
 
 7、js：http://www.runoob.com/js/js-tutorial.html
+
+8、图表：http://www.cocoachina.com/ios/20160429/16046.html
