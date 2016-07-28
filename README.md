@@ -18,3 +18,5 @@
 9、著名与非著名的IOS面试：http://www.cocoachina.com/ios/20160414/15918.html(上)，http://www.cocoachina.com/ios/20160415/15930.html（中），http://www.cocoachina.com/ios/20160418/15931.html（下）
 
 10、如何发布自己的开源框架到CocoaPods：http://www.cocoachina.com/ios/20160301/15459.html
+
+11、使用UIBezierPath和CAShapeLayer画各种图形：http://www.cocoachina.com/ios/20160214/15251.html
