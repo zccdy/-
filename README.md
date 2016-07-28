@@ -16,3 +16,5 @@
 8、图表：http://www.cocoachina.com/ios/20160429/16046.html
 
 9、著名与非著名的IOS面试：http://www.cocoachina.com/ios/20160414/15918.html(上)，http://www.cocoachina.com/ios/20160415/15930.html（中），http://www.cocoachina.com/ios/20160418/15931.html（下）
+
+10、如何发布自己的开源框架到CocoaPods：http://www.cocoachina.com/ios/20160301/15459.html
