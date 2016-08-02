@@ -24,3 +24,6 @@
 12、谓词(NSPredicate):http://www.cocoachina.com/ios/20160111/14926.html
 
 13、断点的设置:http://www.cocoachina.com/ios/20150805/12842.html
+
+14、谈谈iOS中粘性动画以及果冻效果的实现（CALayer的变形与阻尼震动，例如：用滑动手势消除QQ提示消息的那个小红点）：http://www.cocoachina.com/ios/20150618/12171.html
+
