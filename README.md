@@ -27,3 +27,5 @@
 
 14、谈谈iOS中粘性动画以及果冻效果的实现（CALayer的变形与阻尼震动，例如：用滑动手势消除QQ提示消息的那个小红点）：http://www.cocoachina.com/ios/20150618/12171.html
 
+15、推送（IOS10 和IOS10以前）：http://blog.csdn.net/u012847940/article/details/51801078
+
