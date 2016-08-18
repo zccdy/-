@@ -29,3 +29,5 @@
 
 15、推送（IOS10 和IOS10以前）：http://blog.csdn.net/u012847940/article/details/51801078
 
+16、AppStore审核:http://www.cocoachina.com/appstore/20160804/17283.html
+
