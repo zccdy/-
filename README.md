@@ -31,3 +31,4 @@
 
 16、AppStore审核:http://www.cocoachina.com/appstore/20160804/17283.html
 
+17、iCarousel的使用实例（防iOS9的多任务管理器）：http://www.cocoachina.com/ios/20150804/12878.html
